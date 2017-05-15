@@ -1,0 +1,184 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+h2{
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.jumbotron {
+	margin:auto;
+	padding:20px;
+}
+	 
+header{
+	margin:0px;
+	padding:0px;
+}
+
+		  
+#container{
+	text-align: center;
+	padding: 10px;
+}
+
+#logo{
+	position: absolute;
+	left: 5px;
+	width: 150px;
+	height: 130px;
+	
+	margin: auto;
+}
+
+#clockbox{
+    position: relative;
+    
+    font-size: 2em;
+    color: #FF0000;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+
+}
+
+
+
+
+
+h5 {
+	position: relative;
+	left: 140px;
+}
+
+#cnb {
+	position:relative;
+	left: 150px;
+	color:red;
+	padding:0px;
+	margin:auto;
+}
+
+
+#used-log{
+	color: #f50a0a;
+	position: relative;
+	left: 20px;
+	text-align: center;
+}
+
+table {
+	background-color: lightgrey;
+	border-radius: 10px;
+	position: relative;
+	left: 0px;
+	top: 0px;	
+	padding: 0;
+	text-align: center;
+}			   
+
+th, td  {
+	text-align: center;
+	padding: 10px;
+}
+
+td{
+	text-align: center;
+}
+
+#measurement{
+	position: relative;
+	float: right;
+	left: 0px;
+	top: 0px;
+	padding: 25px;
+	font-size: 1.3em;
+	margin:auto;
+	
+}
+th{
+	background-color: gray;
+	color: white;
+
+}
+
+#lbs-per-bag{
+	position: relative;
+	left: 0px;
+	top: 0px;
+}
+
+#number-bags{
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+#amout-received{
+	position: relative;
+	left: 0px;
+	top:  0px;
+}
+
+#add-new-line{	
+	position: relative;
+	top: -60px;
+	
+}
+
+#lights{
+	display: inline-block;
+	border-radius: 5px;
+	padding: 5px;
+	position: relative;
+	left: 0px;
+	top: 150px;
+	
+}
+
+#green-light{	
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 50px;
+    position: relative;
+	top: 50px;
+	left: 470px;
+	width: 20px;
+	height: 20px;
+}
+
+#yellow-light{
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 50px;
+	position: relative;
+	top: 30px;
+	left: 500px;
+	width: 20px;
+	height: 20px;
+}
+
+#red-light{
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 50px;
+	position: relative;
+	top: 10px;
+	left: 530px;
+	width: 20px;
+	height: 20px;
+}
+#amount2{
+	font-size:1em;
+	float:left;
+	position: relative;
+	top: 20px;
+	padding: 5px;
+}
+	
+
+
+tr:nth-child(even){background-color: #f2f2f2}	
+
